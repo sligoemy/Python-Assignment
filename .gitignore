@@ -1,2 +1,5 @@
 .env
 sendquotes.ipynb
+Task 1/__pycache__
+Task 2/.ipynb_checkpoints
+.ipynb_checkpoints/file-checkpoint.env
